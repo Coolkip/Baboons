@@ -5,8 +5,8 @@ using UnityEngine;
 public class selectTile : MonoBehaviour {
     
 
-    public void OnMouseOver() {
-        if (Input.GetMouseButtonDown(1))
+    /*public void OnMouseOver() {
+        if (Input.GetMouseButtonDown(1)) ;
 
-    }
+    }*/
 }

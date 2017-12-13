@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Networking;
 
-public class TileMap : MonoBehaviour {
+public class TileMap : NetworkBehaviour {
 
     public TileType[] tileTypes;
     public GameObject[,] tileObjects;
