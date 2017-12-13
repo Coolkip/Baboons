@@ -22,6 +22,7 @@ GameObject:
   - component: {fileID: 33075150555025634}
   - component: {fileID: 65827535580802786}
   - component: {fileID: 23413112902836368}
+  - component: {fileID: 114220861409041592}
   m_Layer: 0
   m_Name: tileLake
   m_TagString: Untagged
@@ -95,3 +96,15 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &114220861409041592
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1844332483408670}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc2b819ed05b4d5419f7a989fd763c63, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rb: {fileID: 0}
