@@ -219,10 +219,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Compile Include="Assets\_Scripts\OpstellingLezen.cs" />
+=======
+    <Compile Include="Assets\_Scripts\SelectTile.cs" />
+>>>>>>> 30771c5616a3de55f84bfb03940a01e71ec5dd25
     <Compile Include="Assets\_Scripts\TileMap.cs" />
     <Compile Include="Assets\_Scripts\TileType.cs" />
-    <Compile Include="Assets\selectTile.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\_Opstellingen\Test_player1.txt" />
