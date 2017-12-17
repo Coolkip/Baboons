@@ -201,6 +201,9 @@ MonoBehaviour:
   activeTime: 0.01
   x: 0
   z: 0
+  selectCounter: 0
+  unitWalk: 4
+  selected: 0
 --- !u!114 &114787710094683350
 MonoBehaviour:
   m_ObjectHideFlags: 1
