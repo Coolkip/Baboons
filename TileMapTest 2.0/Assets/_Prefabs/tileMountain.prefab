@@ -210,6 +210,11 @@ MonoBehaviour:
   tile: {fileID: 4377203016898892}
   material: {fileID: 2100000, guid: 50ad10a6a6b2b714eba53b72f745ed51, type: 2}
   quad: {fileID: 1895045043204346}
-  activeTime: 0.01
+  mouseOverQuad: {fileID: 1086097522413714, guid: d86c25ed77363c64f91ba9f636d63942,
+    type: 2}
+  activeTime: 0.05
   x: 0
   z: 0
+  selectCounter: 0
+  unitWalk: 4
+  selected: 0

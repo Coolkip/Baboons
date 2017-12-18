@@ -12,6 +12,8 @@ public class TileMap : MonoBehaviour {
     //public TileType[,] selections;
     public TileType[] tileTypes;
     public int mapSizeX = 10, mapSizeZ = 10;
+
+    public Vector2 currentlySelected = new Vector2(-1, -1);
     
     void Start() {
         tileObjects = new GameObject[mapSizeX, mapSizeZ];

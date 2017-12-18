@@ -1,11 +1,16 @@
 fileFormatVersion: 2
 guid: 6c118c16387fd554d8afd0f392a36503
-timeCreated: 1513254020
+timeCreated: 1513598821
 licenseType: Free
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - tile: {instanceID: 0}
+  - material: {instanceID: 0}
+  - quad: {instanceID: 0}
+  - mouseOverQuad: {fileID: 1086097522413714, guid: d86c25ed77363c64f91ba9f636d63942,
+      type: 2}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
